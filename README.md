@@ -67,15 +67,14 @@ Eunomia uses openAI's `gpt-4` by default but you can use other LLMs for driving 
 Citation
 --------
 
-For more details checkout [preprint](https://arxiv.org/abs/2312.11690) and if you are using our methodology, please consider citing us using the citation below:
+For more details checkout [paper](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00252k) and if you are using our methodology, please consider citing us using the citation below:
 
 ```bibtex
-@misc{ansari2023agentbased,
-      title={Agent-based Learning of Materials Datasets from Scientific Literature}, 
-      author={Mehrad Ansari and Seyed Mohamad Moosavi},
-      year={2023},
-      eprint={2312.11690},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{ansari2024agent,
+  title={Agent-based learning of materials datasets from scientific literature},
+  author={Ansari, Mehrad Gholizadeh and Moosavi, Seyed Mohamad},
+  journal={Digital Discovery},
+  year={2024},
+  publisher={Royal Society of Chemistry}
 }
 ```
